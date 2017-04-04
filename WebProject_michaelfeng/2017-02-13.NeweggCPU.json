@@ -1,0 +1,674 @@
+[
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-7700K Kaby Lake Quad-Core 4.2 GHz LGA 1151 91W BX80677I77700K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117726",
+    "Price": "$349.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7600K Kaby Lake Quad-Core 3.8 GHz LGA 1151 91W BX80677I57600K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117728",
+    "Price": "$239.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8350 Black Edition Vishera 8-Core 4.0 GHz (4.2 GHz Turbo) Socket AM3+ 125W FD8350FRHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113284",
+    "Price": "$149.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6300 Vishera 6-Core 3.5 GHz (4.1 GHz Turbo) Socket AM3+ 95W FD6300WMHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113286",
+    "Price": "$94.99",
+    "Shipping": "\r\n        $0.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700K Skylake Quad-Core 4.0 GHz LGA 1151 91W BX80662I76700K Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117559",
+    "Price": "$339.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600K 6M Skylake Quad-Core 3.5 GHz LGA 1151 91W BX80662I56600K Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117561",
+    "Price": "$239.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-4350 Vishera Quad-Core 4.2 GHz Socket AM3+ 125W FD4350FRHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113326",
+    "Price": "$79.99",
+    "Shipping": "\r\n        $0.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7700K Kaveri 10 Compute Cores (4 CPU + 6 GPU) 3.4 GHz Socket FM2+ 95W Desktop Processor AMD Radeon R7 series AD770KXBJABOX",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113360",
+    "Price": "$94.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6100 3M 3.7 GHz LGA 1151 BX80662I36100 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=2MN-0004-00002",
+    "Price": "$119.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700 8M Skylake Quad-Core 3.4 GHz LGA 1151 65W BX80662I76700 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117560",
+    "Price": "$314.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8370 with AMD Wraith Cooler Vishera 8-Core 4.0 GHz (4.3 GHz Turbo) Socket AM3+ 125W FD8370FRHKHBX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113398",
+    "Price": "$184.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A8-7600 Kaveri Quad-Core 3.1 GHz Socket FM2+ 65W AD7600YBJABOX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N83U90726",
+    "Price": "$81.94",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6400 6 MB Skylake Quad-Core 2.7 GHz LGA 1151 65W BX80662I56400 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117564",
+    "Price": "$182.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600 6M Skylake Quad-Core 3.3 GHz LGA 1151 65W BX80662I56600 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117562",
+    "Price": "$219.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8300 Vishera 8-Core 3.3 GHz Socket AM3+ 95W FD8300WMHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113399",
+    "Price": "$109.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A6-5400K Trinity Dual-Core 3.6 GHz Socket FM2 65W AD540KOKHJBOX Desktop APU (CPU + GPU) with DirectX 11 Graphic AMD Radeon HD 7540D",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113282",
+    "Price": "$34.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6500 6MB Skylake Quad-Core 3.2 GHz LGA 1151 65W BX80662I56500 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117563",
+    "Price": "$204.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-4300 Vishera Quad-Core 3.8GHz (4.0GHz) Socket AM3+ 95W FD4300WMHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113287",
+    "Price": "$69.99",
+    "Shipping": "\r\n        $0.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 860k with AMD Quiet Cooler Quad-Core Socket FM2+ 95W AD860KXBJASBX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113410",
+    "Price": "$74.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6800K 15M Broadwell-E 6-Core 3.4 GHz LGA 2011-v3 140W BX80671I76800K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117649",
+    "Price": "$424.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6850K 15M Broadwell-E 6-Core 3.6 GHz LGA 2011-v3 140W BX80671I76850K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117647",
+    "Price": "$609.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-9590 Vishera 8-Core 4.7 GHz Socket AM3+ 220W FD9590FHHKWOF Desktop Processor - Black Edition",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113347",
+    "Price": "$189.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A4-6300 Richland Dual-Core 3.7 GHz Socket FM2 65W AD6300OKHLBOX Desktop Processor AMD Radeon HD 8370D",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113349",
+    "Price": "$28.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5820K Haswell-E 6-Core 3.3 GHz LGA 2011-v3 140W BX80648I75820K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117402",
+    "Price": "$389.99",
+    "Shipping": "\r\n        $4.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8320 Vishera 8-Core 3.5 GHz (4.0 GHz Turbo) Socket AM3+ 125W FD8320FRHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113285",
+    "Price": "$129.99",
+    "Shipping": "\r\n        $0.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7890K with AMD Wraith cooler Quad-Core Socket FM2+ 95W AD789KXDJCHBX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113402",
+    "Price": "$148.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7500 3.4 GHz LGA 1151 BX80677I57500 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117730",
+    "Price": "$204.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-7700 Kaby Lake Quad-Core 3.6 GHz LGA 1151 65W BX80677I77700 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117727",
+    "Price": "$314.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7100 Kaby Lake Dual-Core 3.9 GHz LGA 1151 51W BX80677I37100 Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117734",
+    "Price": "$119.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7600 Kaby Lake Quad-Core 3.5 GHz LGA 1151 65W BX80677I57600 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117729",
+    "Price": "$229.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G4560 Kaby Lake Dual-Core 3.5 GHz LGA 1151 54W BX80677G4560 Desktop Processor Intel HD Graphics 610",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117743",
+    "Price": "$64.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6950X 25M Broadwell-E 10-Core 3.0 GHz LGA 2011-v3 140W BX80671I76950X Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABFS5B72057",
+    "Price": "$1,644.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4400 Skylake Dual-Core 3.3 GHz LGA 1151 65W BX80662G4400 Desktop Processor Intel HD Graphics 510",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA2F84D69076",
+    "Price": "$62.04",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD CPU FX-8350 Black Edition 4.0 GHz (4.2 GHz Turbo) Socket AM3+ FD8350FRHKHBX Desktop Processor with AMD Wraith Cooler",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113415",
+    "Price": "$149.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7400 Kaby Lake Quad-Core 3.0 GHz LGA 1151 65W BX80677I57400 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117731",
+    "Price": "$194.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6900K 20M Broadwell-E 8-Core 3.2 GHz LGA 2011-v3 140W BX80671I76900K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117645",
+    "Price": "$1,049.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7860K with AMD Quiet Cooler Quad-Core Socket FM2+ 65W AD786KYBJCSBX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113404",
+    "Price": "$109.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G4620 Kaby Lake Dual-Core 3.7 GHz LGA 1151 51W BX80677G4620 Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117736",
+    "Price": "$92.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5930K Haswell-E 6-Core 3.5 GHz LGA 2011-v3 140W BX80648I75930K Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA24G3RH7930",
+    "Price": "$619.29",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7350K Kaby Lake Dual-Core 4.2 GHz LGA 1151 61W BX80677I37350K Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117772",
+    "Price": "$179.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4500 Skylake Dual-Core 3.5 GHz LGA 1151 65W BX80662G4500 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA2F84D69067",
+    "Price": "$72.92",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G4600 Kaby Lake Dual-Core 3.6 GHz LGA 1151 51W BX80677G4600 Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117739",
+    "Price": "$89.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4960X Ivy Bridge-E 6-Core 3.6GHz (Turbo 4GHz) LGA 2011 130W BX80633i74960X Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819116938",
+    "Price": "$2,809.99",
+    "Shipping": "\r\n        $3.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5960X Haswell-E 8-Core 3.0 GHz LGA 2011-v3 140W BX80648I75960X Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1UH3Z96261",
+    "Price": "$1,095.74",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4790K Devil's Canyon Quad-Core 4.0 GHz LGA 1150 88W BX80646I74790K Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1UH3Z96305",
+    "Price": "$362.67",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 880k with AMD quiet cooler Quad-Core Socket FM2+ 95W AD880KXBJCSBX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N841D7793",
+    "Price": "$94.44",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 845 with AMD quiet cooler Quad-Core Socket FM2+ 65W AD845XACKASBX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113411",
+    "Price": "$67.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7300 Kaby Lake Dual-Core 4.0 GHz LGA 1151 51W BX80677I37300 Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117733",
+    "Price": "$149.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-9370 Vishera 8-Core 4.4 GHz Socket AM3+ 220W FD9370FHHKBOF Desktop Processor - Black Edition",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABFS5B72053",
+    "Price": "$198.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4770K Haswell Quad-Core 3.5 GHz LGA 1150 84W CM8064601464206 Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABRA4UV3698",
+    "Price": "$399.00",
+    "Shipping": "\r\n        $7.25 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6300 Skylake Dual-Core 3.8 GHz LGA 1151 65W BX80662I36300 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117622",
+    "Price": "$149.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770K Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W BX80637I73770K Desktop Processor Intel HD Graphics 4000",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE4U21178",
+    "Price": "$1,047.01",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Intel Core i7-7700T Kaby Lake Quad-Core 2.9 GHz LGA 1151 35W CM8067702868416 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N857X4278",
+    "Price": "$319.90",
+    "Shipping": "\r\n        $9.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G3930 Kaby Lake Dual-Core 2.9 GHz LGA 1151 51W BX80677G3930 Desktop Processor Intel HD Graphics 610",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA2F857Z1342",
+    "Price": "$44.05",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7870K with AMD quiet cooler Quad-Core Socket FM2+ 95W AD787KXDJCSBX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113403",
+    "Price": "$124.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6350 Vishera 6-Core 3.9 GHz (4.2 GHz Turbo) Socket AM3+ 125W FD6350FRHKHBX Desktop Processor with AMD Wraith Cooler",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113416",
+    "Price": "$134.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4460 Haswell Quad-Core 3.2 GHz LGA 1150 BX80646I54460 Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4RR6396",
+    "Price": "$285.98",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD AMD A6-7400K Kaveri Dual-Core 3.5 GHz Socket FM2+ AD740KYBJABOX Desktop Processor Radeon R5 series",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113370",
+    "Price": "$61.33",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7320 Kaby Lake Dual-Core 4.1 GHz LGA 1151 51W BX80677I37320 Desktop Processor Intel HD Graphics 630",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819117732",
+    "Price": "$164.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G3258 Haswell Dual-Core 3.2 GHz LGA 1150 53W BX80646G3258 Desktop Processor Intel HD Graphics",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA24G3RH7923",
+    "Price": "$75.48",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Corporation - Intel Core I5 I5-4690K Quad-Core (4 Core) 3.50 Ghz Processor - Socket H3 Lga-1150Retail Pack - 1 Mb",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4R80803",
+    "Price": "$325.98",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7870K Godavari Quad-Core 3.9 GHz Socket FM2+ 95W AD787KXDJCBOX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4T08007",
+    "Price": "$157.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5775C Broadwell Quad-Core 3.3GHz  LGA 1150 65W  BX80658I75775C Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1UH3Z96274",
+    "Price": "$390.61",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A8-7650K with AMD quiet cooler Quad-Core Socket FM2+ 95W AD765KXBJASBX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113406",
+    "Price": "$89.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Intel Core i5-7500 Kaby Lake Quad-Core 3.4 GHz LGA 1151 65W CM8067702868012 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N857X4337",
+    "Price": "$202.67",
+    "Shipping": "\r\n        $9.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6350 Vishera 6-Core 3.9 GHz Socket AM3+ 125W FD6350FRHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113327",
+    "Price": "$128.86",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8370E Vishera 8-Core 3.3GHz (4.3GHz Turbo) Socket AM3+ 95W FD837EWMHKBOX Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N84AM9632",
+    "Price": "$204.18",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700K 8M Skylake Quad-Core 4.0 GHz LGA 1151 95W CM8066201919901 Desktop Processor Intel\u00ae HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N84BS1592",
+    "Price": "$371.80",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-3570 Ivy Bridge Quad-Core 3.4GHz (3.8GHz Turbo Boost) LGA 1155 77W BX80637i53570 Desktop Processor Intel HD Graphics 2500",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE57D9121",
+    "Price": "$305.56",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-950 Bloomfield Quad-Core 3.06 GHz LGA 1366 130W BX80601950 Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE4P25364",
+    "Price": "$300.00",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4570 Haswell Quad-Core 3.2 GHz LGA 1150 84W BX80646I54570 Desktop Processor Intel HD Graphics",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE57D9077",
+    "Price": "$348.89",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 860K Kaveri Quad-Core 3.7 GHz Socket FM2+ 95W AD860KXBJABOX Desktop Processor (BLACK EDITION)",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4M09523",
+    "Price": "$100.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD 8-Core 4.0 GHz Socket AM3+ FD8350FRW8KHK FX-8350 8C AM3+ 125W Tray",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4M11480",
+    "Price": "$189.89",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770K Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W Desktop Processor Intel HD Graphics 4000",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABRA4UV3683",
+    "Price": "$449.00",
+    "Shipping": "\r\n        $7.25 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-2400 Sandy Bridge Quad-Core 3.1GHz (3.4GHz Turbo Boost) LGA 1155 95W BX80623I52400 Desktop Processor Intel HD Graphics 2000",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP3UN4697",
+    "Price": "$197.67",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770 Ivy Bridge Quad-Core 3.4GHz (3.9GHz Turbo) LGA 1155 77W BX80637I73770 Desktop Processor Intel HD Graphics 4000",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE4P33928",
+    "Price": "$450.00",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6100T Skylake Dual-Core 3.2 GHz LGA 1151 35W BX80662I36100T Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA24G4EF4992",
+    "Price": "$124.22",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A4-7300 Richland Dual-Core 4.0 GHz Socket FM2 65W Desktop Processor AD7300OKHLBOX",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N83UB7928",
+    "Price": "$44.28",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4790 Haswell Quad-Core 3.6 GHz LGA 1150 84W BX80646I74790 Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1K657S6745",
+    "Price": "$484.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core 2 Quad Q6600 Kentsfield Quad-Core 2.4 GHz LGA 775 BX80562Q6600 Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE4M23119",
+    "Price": "$242.01",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-2600 Sandy Bridge Quad-Core 3.4GHz (3.8GHz Turbo Boost) LGA 1155 95W CM8062300834302S Desktop Processor Intel HD Graphics 2000",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP4MY5051",
+    "Price": "$405.73",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-860 Lynnfield Quad-Core 2.8 GHz LGA 1156 95W BX80605I7860 Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABRA4T48184",
+    "Price": "$339.99",
+    "Shipping": "\r\n        $7.25 Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4520 Skylake Dual-Core 3.6 GHz LGA 1151 65W BX80662G4520 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1UH3Z96229",
+    "Price": "$94.40",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Sempron 3850 Kabini Quad-Core 1.3 GHz Socket AM1 25W SD3850JAHMBOX Desktop Processor AMD Radeon HD 8280",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4M11436",
+    "Price": "$46.35",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4690 Haswell Quad-Core 3.5 GHz LGA 1150 84W BX80646I54690 Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4R41681",
+    "Price": "$350.89",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4690K Devil's Canyon Quad-Core 3.5 GHz LGA 1150 88W BX80646I54690K Desktop Processor Intel HD Graphics 4600",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4SC8334",
+    "Price": "$319.76",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-4160 Haswell Dual-Core 3.6 GHz LGA 1150 54W BX80646I34160 Desktop Processor Intel HD Graphics 4400",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA85V4R42382",
+    "Price": "$175.98",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5 i5-6402P Quad-core (4 Core) 2.80 GHz Processor - Socket H4 LGA-1151Retail Pack",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=274-000A-00076",
+    "Price": "$189.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6800K 15M Broadwell-E 6-Core 3.4 GHz LGA 2011-v3 140W CM8067102056201 Desktop Processor",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N849R9728",
+    "Price": "$457.73",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-3450 Ivy Bridge Quad-Core 3.1GHz (3.5GHz Turbo) LGA 1155 77W BX80637I53450 Desktop Processor Intel HD Graphics 2500",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIAAEE4M22703",
+    "Price": "$262.01",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600K 6M Skylake Quad-Core 3.5 GHz LGA 1151 95W CM8066201920300 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1UH3Z96506",
+    "Price": "$241.03",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A6-6400K Richland Dual-Core 3.9 GHz Socket FM2 65W AD640KOKHLBOX Desktop Processor - Black Edition AMD Radeon HD",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113335",
+    "Price": "$53.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G3950 Kaby Lake Dual-Core 3.0 GHz LGA 1151 51W BX80677G3950 Desktop Processor Intel HD Graphics 610",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA24G57M0408",
+    "Price": "$57.70",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-3220 Ivy Bridge Dual-Core 3.3 GHz LGA 1155 55W BX80637i33220 Desktop Processor                                                                                   Intel HD Graphics 2500",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIABB74HH5926",
+    "Price": "$125.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6500 6M Skylake Quad-Core 3.2 GHz LGA 1151 65W CM8066201920404 Desktop Processor Intel HD Graphics 530",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=9SIA1N84BC8290",
+    "Price": "$202.87",
+    "Shipping": "\r\n        $9.99 Shipping\r\n    "
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A8-7670K with AMD quiet cooler Quad-Core Socket FM2+ 95W AD767KXBJCSBX Desktop Processor AMD Radeon R7",
+    "Link": "https://www.newegg.com/Product/Product.aspx?Item=N82E16819113405",
+    "Price": "$101.99",
+    "Shipping": "\r\n        Free Shipping\r\n    "
+  }
+]

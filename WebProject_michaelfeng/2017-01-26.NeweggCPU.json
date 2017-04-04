@@ -1,0 +1,584 @@
+[
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-7700K Kaby Lake Quad-Core 4.2 GHz LGA 1151 91W BX80677I77700K Desktop Processor",
+    "Performance": "4.2 GHz",
+    "Price": "$349.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-7700K Kaby Lake Quad-Core 4.2 GHz LGA 1151 91W BX80677I77700K Desktop Processor",
+    "Performance": "4.2 GHz",
+    "Price": "$349.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7600K Kaby Lake Quad-Core 3.8 GHz LGA 1151 91W BX80677I57600K Desktop Processor",
+    "Performance": "3.8 GHz",
+    "Price": "$249.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8350 Black Edition Vishera 8-Core 4.0 GHz (4.2 GHz Turbo) Socket AM3+ 125W FD8350FRHKBOX Desktop Processor",
+    "Performance": "4.0 GHz",
+    "Price": "$147.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6300 Vishera 6-Core 3.5 GHz (4.1 GHz Turbo) Socket AM3+ 95W FD6300WMHKBOX Desktop Processor",
+    "Performance": "3.5 GHz",
+    "Price": "$89.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700K Skylake Quad-Core 4.0 GHz LGA 1151 91W BX80662I76700K Desktop Processor Intel HD Graphics 530",
+    "Performance": "4.0 GHz",
+    "Price": "$339.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600K 6M Skylake Quad-Core 3.5 GHz LGA 1151 91W BX80662I56600K Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.5 GHz",
+    "Price": "$239.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7700K Kaveri 10 Compute Cores (4 CPU + 6 GPU) 3.4 GHz Socket FM2+ 95W Desktop Processor AMD Radeon R7 series AD770KXBJABOX",
+    "Performance": "3.4 GHz",
+    "Price": "$74.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-4350 Vishera Quad-Core 4.2 GHz Socket AM3+ 125W FD4350FRHKBOX Desktop Processor",
+    "Performance": "4.2 GHz",
+    "Price": "$79.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700 8M Skylake Quad-Core 3.4 GHz LGA 1151 65W BX80662I76700 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.4 GHz",
+    "Price": "$314.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6100 3M 3.7 GHz LGA 1151 BX80662I36100 Desktop Processor",
+    "Performance": "3.7 GHz",
+    "Price": "$119.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8370 with AMD Wraith Cooler Vishera 8-Core 4.0 GHz (4.3 GHz Turbo) Socket AM3+ 125W FD8370FRHKHBX Desktop Processor",
+    "Performance": "4.0 GHz",
+    "Price": "$184.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A8-7600 Kaveri Quad-Core 3.1 GHz Socket FM2+ 65W AD7600YBJABOX Desktop Processor AMD Radeon R7",
+    "Performance": "3.1 GHz",
+    "Price": "$81.94"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600 6M Skylake Quad-Core 3.3 GHz LGA 1151 65W BX80662I56600 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.3 GHz",
+    "Price": "$219.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6400 6 MB Skylake Quad-Core 2.7 GHz LGA 1151 65W BX80662I56400 Desktop Processor Intel HD Graphics 530",
+    "Performance": "2.7 GHz",
+    "Price": "$182.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8300 Vishera 8-Core 3.3 GHz Socket AM3+ 95W FD8300WMHKBOX Desktop Processor",
+    "Performance": "3.3 GHz",
+    "Price": "$109.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A6-5400K Trinity Dual-Core 3.6 GHz Socket FM2 65W AD540KOKHJBOX Desktop APU (CPU + GPU) with DirectX 11 Graphic AMD Radeon HD 7540D",
+    "Performance": "3.6 GHz",
+    "Price": "$34.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6500 6MB Skylake Quad-Core 3.2 GHz LGA 1151 65W BX80662I56500 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.2 GHz",
+    "Price": "$204.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4790K Devil's Canyon Quad-Core 4.0 GHz LGA 1150 88W BX80646I74790K Desktop Processor Intel HD Graphics 4600",
+    "Performance": "4.0 GHz",
+    "Price": "$339.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-4300 Vishera Quad-Core 3.8GHz (4.0GHz) Socket AM3+ 95W FD4300WMHKBOX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$74.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 860k with AMD Quiet Cooler Quad-Core Socket FM2+ 95W AD860KXBJASBX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$74.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6800K 15M Broadwell-E 6-Core 3.4 GHz LGA 2011-v3 140W BX80671I76800K Desktop Processor",
+    "Performance": "3.4 GHz",
+    "Price": "$424.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6850K 15M Broadwell-E 6-Core 3.6 GHz LGA 2011-v3 140W BX80671I76850K Desktop Processor",
+    "Performance": "3.6 GHz",
+    "Price": "$609.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-9590 Vishera 8-Core 4.7 GHz Socket AM3+ 220W FD9590FHHKWOF Desktop Processor - Black Edition",
+    "Performance": "4.7 GHz",
+    "Price": "$189.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A4-6300 Richland Dual-Core 3.7 GHz Socket FM2 65W AD6300OKHLBOX Desktop Processor AMD Radeon HD 8370D",
+    "Performance": "3.7 GHz",
+    "Price": "$29.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5820K Haswell-E 6-Core 3.3 GHz LGA 2011-v3 140W BX80648I75820K Desktop Processor",
+    "Performance": "3.3 GHz",
+    "Price": "$389.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4690K Devil's Canyon Quad-Core 3.5 GHz LGA 1150 88W BX80646I54690K Desktop Processor Intel HD Graphics 4600",
+    "Performance": "3.5 GHz",
+    "Price": "$239.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8320 Vishera 8-Core 3.5 GHz (4.0 GHz Turbo) Socket AM3+ 125W FD8320FRHKBOX Desktop Processor",
+    "Performance": "3.5 GHz",
+    "Price": "$129.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7890K with AMD Wraith cooler Quad-Core Socket FM2+ 95W AD789KXDJCHBX Desktop Processor AMD Radeon R7",
+    "Performance": "R7 GHz",
+    "Price": "$148.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-7700 Kaby Lake Quad-Core 3.6 GHz LGA 1151 65W BX80677I77700 Desktop Processor",
+    "Performance": "3.6 GHz",
+    "Price": "$314.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7500 3.4 GHz LGA 1151 BX80677I57500 Desktop Processor",
+    "Performance": "3.4 GHz",
+    "Price": "$204.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7100 Kaby Lake Dual-Core 3.9 GHz LGA 1151 51W BX80677I37100 Desktop Processor Intel HD Graphics 630",
+    "Performance": "3.9 GHz",
+    "Price": "$119.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6950X 25M Broadwell-E 10-Core 3.0 GHz LGA 2011-v3 140W BX80671I76950X Desktop Processor",
+    "Performance": "3.0 GHz",
+    "Price": "$1,649.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7600 Kaby Lake Quad-Core 3.5 GHz LGA 1151 65W BX80677I57600 Desktop Processor",
+    "Performance": "3.5 GHz",
+    "Price": "$229.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4400 Skylake Dual-Core 3.3 GHz LGA 1151 65W BX80662G4400 Desktop Processor Intel HD Graphics 510",
+    "Performance": "3.3 GHz",
+    "Price": "$61.90"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-7400 Kaby Lake Quad-Core 3.0 GHz LGA 1151 65W BX80677I57400 Desktop Processor",
+    "Performance": "3.0 GHz",
+    "Price": "$199.75"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7350K Kaby Lake Dual-Core 4.2 GHz LGA 1151 61W BX80677I37350K Desktop Processor Intel HD Graphics 630",
+    "Performance": "4.2 GHz",
+    "Price": "$189.88"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4460 Haswell Quad-Core 3.2 GHz LGA 1150 BX80646I54460 Desktop Processor Intel HD Graphics 4600",
+    "Performance": "3.2 GHz",
+    "Price": "$195.01"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6900K 20M Broadwell-E 8-Core 3.2 GHz LGA 2011-v3 140W BX80671I76900K Desktop Processor",
+    "Performance": "3.2 GHz",
+    "Price": "$1,049.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G3258 Haswell Dual-Core 3.2 GHz LGA 1150 53W BX80646G3258 Desktop Processor Intel HD Graphics",
+    "Performance": "3.2 GHz",
+    "Price": "$74.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD CPU FX-8350 Black Edition 4.0 GHz (4.2 GHz Turbo) Socket AM3+ FD8350FRHKHBX Desktop Processor with AMD Wraith Cooler",
+    "Performance": "4.0 GHz",
+    "Price": "$159.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7860K with AMD Quiet Cooler Quad-Core Socket FM2+ 65W AD786KYBJCSBX Desktop Processor AMD Radeon R7",
+    "Performance": "R7 GHz",
+    "Price": "$99.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4500 Skylake Dual-Core 3.5 GHz LGA 1151 65W BX80662G4500 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.5 GHz",
+    "Price": "$75.40"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5930K Haswell-E 6-Core 3.5 GHz LGA 2011-v3 140W BX80648I75930K Desktop Processor",
+    "Performance": "3.5 GHz",
+    "Price": "$613.64"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5960X Haswell-E 8-Core 3.0 GHz LGA 2011-v3 140W BX80648I75960X Desktop Processor",
+    "Performance": "3.0 GHz",
+    "Price": "$1,049.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G4600 Kaby Lake Dual-Core 3.6 GHz LGA 1151 51W BX80677G4600 Desktop Processor Intel HD Graphics 630",
+    "Performance": "3.6 GHz",
+    "Price": "$89.17"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-9370 Vishera 8-Core 4.4 GHz Socket AM3+ 220W FD9370FHHKBOF Desktop Processor - Black Edition",
+    "Performance": "4.4 GHz",
+    "Price": "$179.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 845 with AMD quiet cooler Quad-Core Socket FM2+ 65W AD845XACKASBX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$67.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7320 Kaby Lake Dual-Core 4.1 GHz LGA 1151 51W BX80677I37320 Desktop Processor Intel HD Graphics 630",
+    "Performance": "4.1 GHz",
+    "Price": "$164.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 880k with AMD quiet cooler Quad-Core Socket FM2+ 95W AD880KXBJCSBX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$96.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4960X Ivy Bridge-E 6-Core 3.6GHz (Turbo 4GHz) LGA 2011 130W BX80633i74960X Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$2,809.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6300 Skylake Dual-Core 3.8 GHz LGA 1151 65W BX80662I36300 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.8 GHz",
+    "Price": "$149.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-7300 Kaby Lake Dual-Core 4.0 GHz LGA 1151 51W BX80677I37300 Desktop Processor Intel HD Graphics 630",
+    "Performance": "4.0 GHz",
+    "Price": "$149.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8320E Vishera 8-Core 3.2GHz (4.0GHz Turbo) Socket AM3+ 95W FD832EWMHKBOX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$153.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4690 Haswell Quad-Core 3.5 GHz LGA 1150 84W BX80646I54690 Desktop Processor Intel HD Graphics 4600",
+    "Performance": "3.5 GHz",
+    "Price": "$228.50"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G4620 Kaby Lake Dual-Core 3.7 GHz LGA 1151 51W BX80677G4620 Desktop Processor Intel HD Graphics 630",
+    "Performance": "3.7 GHz",
+    "Price": "$92.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i3-6320 Skylake Dual-Core 3.9 GHz LGA 1151 65W BX80662I36320 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.9 GHz",
+    "Price": "$159.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-4770K Haswell Quad-Core 3.5 GHz LGA 1150 84W CM8064601464206 Desktop Processor Intel HD Graphics 4600",
+    "Performance": "3.5 GHz",
+    "Price": "$399.00"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD AMD A6-7400K Kaveri Dual-Core 3.5 GHz Socket FM2+ AD740KYBJABOX Desktop Processor Radeon R5 series",
+    "Performance": "3.5 GHz",
+    "Price": "$60.75"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7870K with AMD quiet cooler Quad-Core Socket FM2+ 95W AD787KXDJCSBX Desktop Processor AMD Radeon R7",
+    "Performance": "R7 GHz",
+    "Price": "$129.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770 Ivy Bridge Quad-Core 3.4GHz (3.9GHz Turbo) LGA 1155 77W BX80637I73770 Desktop Processor Intel HD Graphics 4000",
+    "Performance": "4000 GHz",
+    "Price": "$450.00"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5 i5-4670K Quad-core (4 Core) 3.40 GHz Processor",
+    "Performance": "3.40 GHz",
+    "Price": "$249.00"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6350 Vishera 6-Core 3.9 GHz (4.2 GHz Turbo) Socket AM3+ 125W FD6350FRHKHBX Desktop Processor with AMD Wraith Cooler",
+    "Performance": "3.9 GHz",
+    "Price": "$134.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-5775C Broadwell Quad-Core 3.3GHz  LGA 1150 65W  BX80658I75775C Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$387.68"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770K Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W Desktop Processor Intel HD Graphics 4000",
+    "Performance": "4000 GHz",
+    "Price": "$449.00"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Athlon X4 860K Kaveri Quad-Core 3.7 GHz Socket FM2+ 95W AD860KXBJABOX Desktop Processor (BLACK EDITION)",
+    "Performance": "3.7 GHz",
+    "Price": "$100.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-3770K Ivy Bridge Quad-Core 3.5GHz (3.9GHz Turbo) LGA 1155 77W BX80637I73770K Desktop Processor Intel HD Graphics 4000",
+    "Performance": "4000 GHz",
+    "Price": "$1,047.01"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Intel Core i7-7700T Kaby Lake Quad-Core 2.9 GHz LGA 1151 35W CM8067702868416 Desktop Processor",
+    "Performance": "2.9 GHz",
+    "Price": "$320.44"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8370E Vishera 8-Core 3.3GHz (4.3GHz Turbo) Socket AM3+ 95W FD837EWMHKBOX Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$201.83"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6700K 8M Skylake Quad-Core 4.0 GHz LGA 1151 95W CM8066201919901 Desktop Processor Intel\u00ae HD Graphics 530",
+    "Performance": "4.0 GHz",
+    "Price": "$373.80"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A8-7650K with AMD quiet cooler Quad-Core Socket FM2+ 95W AD765KXBJASBX Desktop Processor AMD Radeon R7",
+    "Performance": "R7 GHz",
+    "Price": "$89.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD Sempron 3850 Kabini Quad-Core 1.3 GHz Socket AM1 25W SD3850JAHMBOX Desktop Processor AMD Radeon HD 8280",
+    "Performance": "1.3 GHz",
+    "Price": "$43.56"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A6-6400K Richland Dual-Core 3.9 GHz Socket FM2 65W AD640KOKHLBOX Desktop Processor - Black Edition AMD Radeon HD",
+    "Performance": "3.9 GHz",
+    "Price": "$53.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4670K Haswell Quad-Core 3.4 GHz LGA 1150 84W BX80646I54670K Desktop Processor Intel HD Graphics",
+    "Performance": "3.4 GHz",
+    "Price": "$262.71"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A4-7300 Richland Dual-Core 4.0 GHz Socket FM2 65W Desktop Processor AD7300OKHLBOX",
+    "Performance": "4.0 GHz",
+    "Price": "$44.60"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6600K 6M Skylake Quad-Core 3.5 GHz LGA 1151 95W CM8066201920300 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.5 GHz",
+    "Price": "$257.85"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Intel Celeron G3900 Skylake Dual-Core 2.8 GHz LGA 1151 65W BX80662G3900 Desktop Processor Intel HD Graphics 510",
+    "Performance": "2.8 GHz",
+    "Price": "$49.97"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Pentium G4520 Skylake Dual-Core 3.6 GHz LGA 1151 65W BX80662G4520 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.6 GHz",
+    "Price": "$97.86"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-6500 6M Skylake Quad-Core 3.2 GHz LGA 1151 65W CM8066201920404 Desktop Processor Intel HD Graphics 530",
+    "Performance": "3.2 GHz",
+    "Price": "$203.21"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6350 Vishera 6-Core 3.9 GHz Socket AM3+ 125W FD6350FRHKBOX Desktop Processor",
+    "Performance": "3.9 GHz",
+    "Price": "$125.72"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-8350 Black Edition Vishera 8-Core 4.0 GHz -4.2GHz Turbo Socket AM3+ 125W FD8350FRHKBOX Desktop Processor Model FD8350FRHKBOX",
+    "Performance": "4.0 GHz",
+    "Price": "$240.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD 8-Core 4.0 GHz Socket AM3+ FD8350FRW8KHK FX-8350 8C AM3+ 125W Tray",
+    "Performance": "4.0 GHz",
+    "Price": "$189.89"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel G3930 Kaby Lake Dual-Core 2.9 GHz LGA 1151 51W BX80677G3930 Desktop Processor Intel HD Graphics 610",
+    "Performance": "2.9 GHz",
+    "Price": "$41.95"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Celeron G1820 Haswell Dual-Core 2.7 GHz LGA 1150 53W BX80646G1820 Desktop Processor Intel HD Graphics",
+    "Performance": "2.7 GHz",
+    "Price": "$50.78"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4430 Haswell Quad-Core 3.0 GHz LGA 1150 84W BX80646I54430 Desktop Processor Intel HD Graphics 4600",
+    "Performance": "3.0 GHz",
+    "Price": "$195.01"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Corporation - Intel Core I5 I5-4690K Quad-Core (4 Core) 3.50 Ghz Processor - Socket H3 Lga-1150Retail Pack - 1 Mb",
+    "Performance": "Mb GHz",
+    "Price": "$309.97"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD FX-6300 Six-Core Vishera Processor 3.5GHz Socket AM3+, Retail",
+    "Performance": "Retail GHz",
+    "Price": "$164.02"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel i7-4790K Quad-Core LGA 1150 BXF80646I74790K Desktop Processor",
+    "Performance": "Processor GHz",
+    "Price": "$369.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-2600 Sandy Bridge Quad-Core 3.4GHz (3.8GHz Turbo Boost) LGA 1155 95W CM8062300834302S Desktop Processor Intel HD Graphics 2000",
+    "Performance": "2000 GHz",
+    "Price": "$405.73"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core 2 Quad Q6600 Kentsfield Quad-Core 2.4 GHz LGA 775 BX80562Q6600 Processor",
+    "Performance": "2.4 GHz",
+    "Price": "$242.01"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5 i5-6402P Quad-core (4 Core) 2.80 GHz Processor - Socket H4 LGA-1151Retail Pack",
+    "Performance": "2.80 GHz",
+    "Price": "$189.99"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7870K Godavari Quad-Core 3.9 GHz Socket FM2+ 95W AD787KXDJCBOX Desktop Processor AMD Radeon R7",
+    "Performance": "3.9 GHz",
+    "Price": "$157.99"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-960 Bloomfield Quad-Core 3.2 GHz LGA 1366 130W BX80601960 Desktop Processor",
+    "Performance": "3.2 GHz",
+    "Price": "$447.00"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i7-6800K 15M Broadwell-E 6-Core 3.4 GHz LGA 2011-v3 140W CM8067102056201 Desktop Processor",
+    "Performance": "3.4 GHz",
+    "Price": "$458.48"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-4570 Haswell Quad-Core 3.2 GHz LGA 1150 84W BX80646I54570 Desktop Processor Intel HD Graphics",
+    "Performance": "3.2 GHz",
+    "Price": "$348.89"
+  },
+  {
+    "Brand": "AMD",
+    "CPU Name": "AMD A10-7850K Kaveri Quad-Core 3.7 GHz Socket FM2+ 95W AD785KXBJABOX Desktop Processor AMD Radeon R7",
+    "Performance": "3.7 GHz",
+    "Price": "$142.97"
+  },
+  {
+    "Brand": "Intel",
+    "CPU Name": "Intel Core i5-2400 Sandy Bridge Quad-Core 3.1GHz (3.4GHz Turbo Boost) LGA 1155 95W BX80623I52400 Desktop Processor Intel HD Graphics 2000",
+    "Performance": "2000 GHz",
+    "Price": "$194.91"
+  }
+]
